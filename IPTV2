@@ -19,7 +19,7 @@ rtp://239.76.252.121:9000#rtp://239.76.253.105:9000
 rtp://239.76.252.122:9000#rtp://239.76.253.110:9000
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan10.png" group-title="湖南",金鹰卡通
 rtp://239.76.252.120:9000#rtp://239.76.253.107:9000
-#EXTINF:-1 tvg-id="" tvg-name="湖南国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png" group-title="湖南",湖南国际 HD
+#EXTINF:-1 tvg-id="" tvg-name="湖南国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png" group-title="湖南",湖南国际
 rtp://239.76.252.124:9000#rtp://239.76.253.102:9000
 #EXTINF:-1 tvg-id="" tvg-name="湖南教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan8.png" group-title="湖南",湖南教育
 rtp://239.76.252.233:9000
