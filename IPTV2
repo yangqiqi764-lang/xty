@@ -5,15 +5,15 @@ rtp://239.76.252.115:9000#rtp://239.76.253.101:9000
 rtp://239.76.253.62:9000
 #EXTINF:-1 tvg-id="1323" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan1.png" group-title="湖南",湖南经视
 rtp://239.76.252.116:9000#rtp://239.76.253.103:9000
-#EXTINF:-1 tvg-id="" tvg-name="湖南都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan2.png" group-title="湖南",湖南都市 HD
+#EXTINF:-1 tvg-id="" tvg-name="湖南都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan2.png" group-title="湖南",湖南都市
 rtp://239.76.252.117:9000#rtp://239.76.253.104:9000
-#EXTINF:-1 tvg-id="1318" tvg-name="湖南电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan7.png" group-title="湖南",湖南电视剧频道
+#EXTINF:-1 tvg-id="1318" tvg-name="湖南电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan7.png" group-title="湖南",湖南电视剧
 rtp://239.76.252.118:9000#rtp://239.76.253.108:9000
-#EXTINF:-1 tvg-id="" tvg-name="潇湘电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan6.png" group-title="湖南",潇湘电影 HD
+#EXTINF:-1 tvg-id="" tvg-name="潇湘电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan6.png" group-title="湖南",潇湘电影
 rtp://239.76.252.119:9000#rtp://239.76.253.106:9000
-#EXTINF:-1 tvg-id="" tvg-name="湖南爱晚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan3.png" group-title="湖南",湖南爱晚 HD
+#EXTINF:-1 tvg-id="" tvg-name="湖南爱晚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan3.png" group-title="湖南",湖南爱晚
 rtp://239.76.252.123:9000#rtp://239.76.253.109:9000
-#EXTINF:-1 tvg-id="1317" tvg-name="湖南娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan5.png" group-title="湖南",湖南娱乐频道
+#EXTINF:-1 tvg-id="1317" tvg-name="湖南娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan5.png" group-title="湖南",湖南娱乐
 rtp://239.76.252.121:9000#rtp://239.76.253.105:9000
 #EXTINF:-1 tvg-id="1324" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan9.png" group-title="湖南",金鹰纪实
 rtp://239.76.252.122:9000#rtp://239.76.253.110:9000
@@ -21,15 +21,15 @@ rtp://239.76.252.122:9000#rtp://239.76.253.110:9000
 rtp://239.76.252.120:9000#rtp://239.76.253.107:9000
 #EXTINF:-1 tvg-id="" tvg-name="湖南国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png" group-title="湖南",湖南国际 HD
 rtp://239.76.252.124:9000#rtp://239.76.253.102:9000
-#EXTINF:-1 tvg-id="" tvg-name="湖南教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan8.png" group-title="湖南",湖南教育 HD
+#EXTINF:-1 tvg-id="" tvg-name="湖南教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan8.png" group-title="湖南",湖南教育
 rtp://239.76.252.233:9000
 #EXTINF:-1 tvg-id="1674" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan12.png" group-title="湖南",茶频道
 rtp://239.76.252.239:9000
-#EXTINF:-1 tvg-id="" tvg-name="浏阳新闻" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/7b717d998b13c00a9deed39ea69374fe1771623335.jpg" group-title="湖南",浏阳新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="浏阳新闻" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/7b717d998b13c00a9deed39ea69374fe1771623335.jpg" group-title="湖南",浏阳新闻
 rtp://239.76.255.6:9000
-#EXTINF:-1 tvg-id="" tvg-name="长沙新闻" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/956510ec2e9bb53364152c20247634d01771623335.png" group-title="湖南",长沙新闻 HD
+#EXTINF:-1 tvg-id="" tvg-name="长沙新闻" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/956510ec2e9bb53364152c20247634d01771623335.png" group-title="湖南",长沙新闻
 rtp://239.76.253.121:9000
-#EXTINF:-1 tvg-id="" tvg-name="长沙政法" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/ee0d9543f8e020fb9e8e4b02d1bf5cb01771623335.png" group-title="湖南",长沙政法 HD
+#EXTINF:-1 tvg-id="" tvg-name="长沙政法" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/ee0d9543f8e020fb9e8e4b02d1bf5cb01771623335.png" group-title="湖南",长沙政法
 rtp://239.76.253.122:9000
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 rtp://239.76.253.151:9000
