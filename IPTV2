@@ -63,7 +63,7 @@ rtp://239.76.253.93:9000
 rtp://239.76.253.164:9000
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 rtp://239.76.252.252:9000
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="央视",CCTV奥林匹克
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV奥林匹克" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="央视",CCTV奥林匹克
 rtp://239.76.253.98:9000
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
 rtp://239.76.252.238:9000
