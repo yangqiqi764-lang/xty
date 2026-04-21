@@ -85,8 +85,6 @@ rtp://239.76.253.97:9000
 rtp://239.76.253.87:9000
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN 俄语" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNey.png" group-title="央视",CGTN 俄语
 rtp://239.76.253.86:9000
-#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="湖南",CETV-1 HD
-rtp://239.76.252.192:9000
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="央视",凤凰卫视资讯台
 rtp://239.76.253.135:9000
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="央视",凤凰卫视中文台
