@@ -27,7 +27,7 @@ rtp://239.76.252.233:9000
 rtp://239.76.252.239:9000
 #EXTINF:-1 tvg-id="" tvg-name="浏阳新闻" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/7b717d998b13c00a9deed39ea69374fe1771623335.jpg" group-title="湖南",浏阳新闻
 rtp://239.76.255.6:9000
-#EXTINF:-1 tvg-id="" tvg-name="长沙新闻" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/956510ec2e9bb53364152c20247634d01771623335.png" group-title="湖南",长沙新闻
+#EXTINF:-1 tvg-id="" tvg-name="长沙新闻综合" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/956510ec2e9bb53364152c20247634d01771623335.png" group-title="湖南",长沙新闻综合
 rtp://239.76.253.121:9000
 #EXTINF:-1 tvg-id="" tvg-name="长沙政法" tvg-logo="https://i0.hdslb.com/bfs/new_dyn/ee0d9543f8e020fb9e8e4b02d1bf5cb01771623335.png" group-title="湖南",长沙政法
 rtp://239.76.253.122:9000
