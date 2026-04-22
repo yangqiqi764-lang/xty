@@ -73,9 +73,9 @@ rtp://239.76.254.101:9000
 rtp://239.76.253.95:9000
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4 美洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4mz.png" group-title="央视",CCTV-4 美洲
 rtp://239.76.253.96:9000
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN 英文" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" group-title="央视",CGTN 英文
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" group-title="央视",CGTN
 rtp://239.76.252.66:9000
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN 纪录" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNjilu.png" group-title="央视",CGTN 纪录
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNjilu.png" group-title="央视",CGTN纪录
 rtp://239.76.252.67:9000
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN 西班牙语 " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNxbyy.png" group-title="央视",CGTN 西班牙语
 rtp://239.76.253.88:9000
