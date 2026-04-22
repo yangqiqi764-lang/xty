@@ -91,7 +91,7 @@ rtp://239.76.253.135:9000
 rtp://239.76.253.134:9000
 #EXTINF:-1 tvg-id="1644" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="央视",CHC家庭电影
 rtp://239.76.252.241:9000
-#EXTINF:-1 tvg-id="1639" tvg-name="CHC影迷电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="央视",CHC影迷电影
+#EXTINF:-1 tvg-id="1639" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="央视",CHC影迷电影
 rtp://239.76.252.242:9000
 #EXTINF:-1 tvg-id="1643" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="央视",CHC动作电影
 rtp://239.76.252.243:9000
