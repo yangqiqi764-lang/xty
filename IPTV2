@@ -9,7 +9,7 @@ rtp://239.76.252.116:9000#rtp://239.76.253.103:9000
 rtp://239.76.252.117:9000#rtp://239.76.253.104:9000
 #EXTINF:-1 tvg-id="1318" tvg-name="湖南电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan7.png" group-title="湖南",湖南电视剧
 rtp://239.76.252.118:9000#rtp://239.76.253.108:9000
-#EXTINF:-1 tvg-id="" tvg-name="潇湘电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan6.png" group-title="湖南",潇湘电影
+#EXTINF:-1 tvg-id="" tvg-name="湖南电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan6.png" group-title="湖南",潇湘电影
 rtp://239.76.252.119:9000#rtp://239.76.253.106:9000
 #EXTINF:-1 tvg-id="" tvg-name="湖南爱晚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan3.png" group-title="湖南",湖南爱晚
 rtp://239.76.252.123:9000#rtp://239.76.253.109:9000
