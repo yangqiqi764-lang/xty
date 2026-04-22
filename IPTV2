@@ -86,9 +86,9 @@ rtp://239.76.253.87:9000
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN 俄语" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNey.png" group-title="央视",CGTN 俄语
 rtp://239.76.253.86:9000
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="央视",凤凰卫视资讯台
-rtp://239.76.253.135:9000
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="央视",凤凰卫视中文台
 rtp://239.76.253.134:9000
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="央视",凤凰卫视中文台
+rtp://239.76.253.135:9000
 #EXTINF:-1 tvg-id="1644" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="央视",CHC家庭电影
 rtp://239.76.252.241:9000
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="央视",CHC影迷电影
