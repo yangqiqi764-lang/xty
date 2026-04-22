@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan0.png" group-title="湖南",湖南卫视
 rtp://239.76.252.115:9000#rtp://239.76.253.101:9000
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/yangqiqi764-lang/xty/refs/heads/main/hnws4k.png" group-title="湖南",湖南卫视4K超高清
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/yangqiqi764-lang/xty/refs/heads/main/hnws4k.png" group-title="湖南",湖南卫视4K
 rtp://239.76.253.62:9000
 #EXTINF:-1 tvg-id="1323" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan1.png" group-title="湖南",湖南经视
 rtp://239.76.252.116:9000#rtp://239.76.253.103:9000
@@ -103,7 +103,7 @@ rtp://239.76.253.182:9000
 rtp://239.76.252.196:9000
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 rtp://239.76.253.184:9000
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="https://guangdianyanjiu.smgtech.net/d/file/zhongyaotuijian/2025-11-25/f26dd7d5f7b2bc3035a12a3717fb546e.png" group-title="卫视",北京卫视4K超高清
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="https://guangdianyanjiu.smgtech.net/d/file/zhongyaotuijian/2025-11-25/f26dd7d5f7b2bc3035a12a3717fb546e.png" group-title="卫视",北京卫视4K
 rtp://239.76.253.150:9000
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 rtp://239.76.253.185:9000
