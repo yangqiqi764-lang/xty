@@ -69,21 +69,21 @@ rtp://239.76.253.98:9000
 rtp://239.76.252.238:9000
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
 rtp://239.76.254.101:9000
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4 欧洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4oz.png" group-title="央视",CCTV-4 欧洲
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4oz.png" group-title="央视",CCTV-4 欧洲
 rtp://239.76.253.95:9000
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4 美洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4mz.png" group-title="央视",CCTV-4 美洲
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4mz.png" group-title="央视",CCTV-4 美洲
 rtp://239.76.253.96:9000
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" group-title="央视",CGTN
 rtp://239.76.252.66:9000
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNjilu.png" group-title="央视",CGTN纪录
 rtp://239.76.252.67:9000
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN 西班牙语 " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNxbyy.png" group-title="央视",CGTN 西班牙语
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN西班牙语 " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNxbyy.png" group-title="央视",CGTN 西班牙语
 rtp://239.76.253.88:9000
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN 阿拉伯语" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNalby.png" group-title="央视",CGTN 阿拉伯语
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN阿拉伯语" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNalby.png" group-title="央视",CGTN 阿拉伯语
 rtp://239.76.253.97:9000
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN 法语" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNfy.png" group-title="央视",CGTN 法语
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNfy.png" group-title="央视",CGTN 法语
 rtp://239.76.253.87:9000
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN 俄语" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNey.png" group-title="央视",CGTN 俄语
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNey.png" group-title="央视",CGTN 俄语
 rtp://239.76.253.86:9000
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="央视",凤凰卫视资讯台
 rtp://239.76.253.134:9000
