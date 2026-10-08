@@ -69,6 +69,32 @@ rtp://239.76.253.230:9000
 rtp://239.76.252.238:9000
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
 rtp://239.76.254.101:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV兵器科技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="央视",CCTV兵器科技
+rtp://239.76.254.59:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 tvg-id="" tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="央视",CCTV第一剧场
+rtp://239.76.254.49:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 tvg-id="" tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="央视",CCTV电视指南
+rtp://239.76.254.61:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 tvg-id="" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="央视",CCTV风云剧场
+rtp://239.76.254.50:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 tvg-id="" tvg-name="CCTV风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="央视",CCTV风云音乐
+rtp://239.76.247.51:1234?fcc=124.232.149.47:15970
+#EXTINF:-1 tvg-id="" tvg-name="CCTV风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="央视",CCTV风云足球
+rtp://239.76.254.52:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 tvg-id="" tvg-name="CCTV高尔夫" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="央视",CCTV高尔夫
+rtp://239.76.254.62:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 tvg-id="" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="央视",CCTV怀旧剧场
+rtp://239.76.254.53:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 tvg-id="" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="央视",CCTV女性时尚
+rtp://239.76.254.55:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 tvg-id="" tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="央视",CCTV世界地理
+rtp://239.76.247.57:1234?fcc=124.232.149.47:15970
+#EXTINF:-1 tvg-id="" tvg-name="CCTV台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="央视",CCTV台球
+rtp://239.76.254.58:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 tvg-id="" tvg-name="CCTV卫生健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="央视",CCTV卫生健康
+rtp://239.76.253.247:9000?fcc=124.232.149.47:15970
+#EXTINF:-1 tvg-id="" tvg-name="CCTV央视文化" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="央视",CCTV央视文化
+rtp://239.76.254.56:9000?fcc=124.232.149.47:15970
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4欧洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4oz.png" group-title="央视",CCTV-4 欧洲
 rtp://239.76.253.95:9000
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4美洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4mz.png" group-title="央视",CCTV-4 美洲
